@@ -69,6 +69,7 @@
     background-color: darkslategray;
     height: 200px;
     padding: 0px;
+    margin-top: 27px;
 }
 
 .section-1-inner-col {
@@ -129,7 +130,7 @@
 /* SECTION NO 2 */
 
 .section-2 {
-    margin: 25px 0 0 0;
+    margin: 20px 0 0 0;
     padding: 100px 0px 50px 0px;
     font-family: 'Roboto Slab', serif;
 }
